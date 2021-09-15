@@ -3,6 +3,7 @@
 Find a way to do automated program grading.
 For example, the tool should take the source code (a student's programing assignment) and output a grade.
 
+
 ** Approach **
 
 Method-I
@@ -10,6 +11,7 @@ int AutoGrading(studentSourceCode)
 {
  // algorithm
 }
+
 
 Method-II
 An alternative approach may be to create an interactive learning environment.
