@@ -1,10 +1,10 @@
-** Goal **
+# Goal
 
 Find a way to do automated program grading.
 For example, the tool should take the source code (a student's programing assignment) and output a grade.
 
 
-** Approach **
+# Approach
 
 Method-I
 int AutoGrading(studentSourceCode)
@@ -26,7 +26,7 @@ But is there a way to make this from within visual studio?
 
 
 
-** Schedule **
+# Schedule
 
 Starting from 09/12/21
 
