@@ -25,7 +25,6 @@ But is there a way to make this from within visual studio?
 
 
 
-
 # Schedule
 
 Starting from 09/12/21
@@ -33,3 +32,12 @@ Starting from 09/12/21
 Week 1 - 4: research on the existing methodologies
 
 Week 6 - 10: develop a tool to automate the process (writing code, scripts, etc.)
+
+# Logs
+10/15 Moodle framework to use for the front and back end
+
+# Questions
+1. How to build a new assignment in Moodle?
+3. Does Moodle support something like the Jupyter notebook for C# (we need to have C# compiler/runtime on the web UI)? If not, how do we integrate Jupyter notebook?
+4. How should we host the website? Can we host it with AWS?
+5. 
