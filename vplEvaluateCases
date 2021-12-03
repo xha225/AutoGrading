@@ -1,0 +1,21 @@
+case = formatTest
+Fail message = Incorrect Formatting or Result. Check whitespace and calculations
+Grade reduction= 40
+input = USI
+10 
+output = The USI computer club produced $90.00 from their candy sales project.
+The total cost of the candy was $50.00,
+and the student government commission amount was $4.00.
+Thus, the net proceeds was $36.00.
+
+case = testConst
+Fail message = Incorrectly Defined Constants
+program to run = testConst.sh
+Grade reduction= 20
+output = Good
+
+case = testComments
+Fail message = Add more comments
+Grade reduction = 10
+program to run = testComments.sh
+output = good
