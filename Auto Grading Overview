@@ -1,0 +1,8 @@
+The Moodle Virtual Programming Lab (VPL) interface offers many options when executing code. 
+There are 4 default files included to be used when running code in VPL: run, debug, evaluate, and evaluate cases.
+The first 3 of these are very similar, they provided a place to add code that is executed when run, debug or evaluate buttons are hit. 
+This allows you to designate different events for the different operations for the different ways students can run their code. For many implementations this may be unncessary. 
+The evaulate cases file is were you put test cases, and provided in VPL is a syntax for creating basic tests. 
+For more advanced tests, the VPL provides the ability for a test case to run a seprate bash script that is created and saved in the moodle editor.
+Provided is the link to the Virtual Programming Documents for an overview of how to use the package to create 
+programming assignments in Moodle(https://vpl.dis.ulpgc.es/documentation/vpl-3.4.3+/index.html)
